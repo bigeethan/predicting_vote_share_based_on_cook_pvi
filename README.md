@@ -9,7 +9,7 @@ votes, and vice versa for the Democrat with a more Democrat PVI. Based on this, 
 or Democrat based on an entered PVI.
 
 The data that the models were trained on include 2020 and 2024 presidential election results, and 2022 and 2024 US Senate election results. The data, which includes
-a states' PVI and the vote share of the Republican and Democrat are stored in two csv files, separated by party.
+a states' 2025 Cook PVI and the vote share of the Republican and Democrat are stored in two csv files, separated by party.
 
 The purpose of this project is to start learning about machine learning and how to implement different models for it. The topic of Cook PVI and Vote Share was picked due to my interest
 in political technology.
