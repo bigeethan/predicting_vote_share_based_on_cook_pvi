@@ -16,7 +16,7 @@ in political technology.
 
 ## Getting Started
 
-These instructions will show you how to get a copy of the project and run it on your computer.
+These instructions will show you how to get a copy of the project and run it on your computer
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ These instructions will show you how to get a copy of the project and run it on 
 
 ### Installation
 
-Open up the terminal in the project directory.
+Open up the terminal in the project directory
 
 If using python 3 or higher, run
 
@@ -40,9 +40,9 @@ $ pip install numpy
 
 ## Usage
 
-Run the program in your desired development environment.
+Run the program in your desired development environment
 
-The program will ask for an input, this is the Cook PVI. You will enter a number, either positive or negative.
+The program will ask for an input, either a positive or negative number representing the PVI
 
 The following is an example after running the program stored in 'r_linear_regression.py'
 
