@@ -47,14 +47,14 @@ The program will ask for an input, either a positive or negative number represen
 The following is an example after running the program stored in 'r_linear_regression.py'
 
 ```
-$ Please enter a Cook PVI value (negatives represent more Democrat, positives represent more Republican)
-$ 0
-$ Based on a Cook PVI of [0], a Republican is expected to get 48.53% of the vote
+Please enter a Cook PVI value (negatives represent more Democrat, positives represent more Republican)
+0
+Based on a Cook PVI of [0], a Republican is expected to get 48.53% of the vote
 ```
 The following is an example after running the program stored in 'd_linear_regression.py'
 
 ```
-$ Please enter a Cook PVI value (negatives represent more Democrat, positives represent more Republican)
-$ 0
-$ Based on a Cook PVI of [0], a Democrat is expected to get 49.65% of the vote
+Please enter a Cook PVI value (negatives represent more Democrat, positives represent more Republican)
+0
+Based on a Cook PVI of [0], a Democrat is expected to get 49.65% of the vote
 ```
