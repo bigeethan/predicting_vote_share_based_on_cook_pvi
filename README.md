@@ -1,6 +1,6 @@
 # Predicting Vote Share Based on Cook PVI
 
-The Cook PVI is a measure of how much more Republican or Democrat your state/district is compared to the national environment. For exmaple, a PVI of R+5 would mean a state/district is
+The Cook PVI is a measure of how much more Republican or Democrat your state/district is compared to the national environment. For example, a PVI of R+5 would mean a state/district is
 5 percentage points more Republican than the nation, and a PVI of D+5 would mean a state/district is 5 percentage points more Democrat than the nation. For the purposes of this program,
 Republican PVI's are represented as positive numbers and Democrat PVI's are represented as negative numbers.
 
